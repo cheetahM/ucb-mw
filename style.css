@@ -1,0 +1,28 @@
+h1 {
+  text-align: center;
+  margin: 0 0 15px 0;
+  font-size: 100px;
+  font-style: oblique;
+  color: white;
+  background-color: black;
+}
+
+.container {
+  width: 100%;
+  margin: 0 auto;
+  background-color: cyan;
+}
+
+section, p {
+  display: inline-block;
+  width: 400px;
+}
+
+section {
+  text-align: center;
+}
+
+ul {
+  list-style-type: devanagari;
+  list-style-position: inside;
+}
